@@ -1,5 +1,6 @@
   .header_top{
     background-color: blue;
+    position: fixed;
   }
 
 .jumbo{
