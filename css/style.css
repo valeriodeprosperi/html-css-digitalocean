@@ -5,8 +5,7 @@
 .jumbo{
   background-color: red;
 }
-.jumbo p{
-  height: 100px;
-  width:100px;
-  background-color: green;
+
+.section_1{
+  background-color: pink;
 }
