@@ -11,7 +11,17 @@
   .header_logo img{
     height:30px;
   }
+.btn_nav{
+  border: 1px solid blue;
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+.btn_nav:hover{
+  text-decoration: none;
+  background-color: blue;
 
+
+}
 
 .jumbo{
   background-color: red;
