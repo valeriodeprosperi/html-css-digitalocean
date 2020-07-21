@@ -7,6 +7,14 @@
   height:70px;
   background-color: white;
 
+
+}
+
+.vertical_align{
+
+  display:inline-block;
+  vertical-align: middle;
+
 }
   .header_logo img{
     height:30px;
@@ -24,7 +32,7 @@
 }
 
 .jumbo{
-  background-color: red;
+  background-color: #015dff;
   padding-top: 100px;
 }
 
