@@ -1,14 +1,17 @@
-  .header_top{
-    position: fixed;
-    width:100%;
-    height:70px;
-    background-color: white;
 
-  }
+/* header */
 
+.header_top{
+  position: fixed;
+  width:100%;
+  height:70px;
+  background-color: white;
+
+}
   .header_logo img{
     height:30px;
   }
+
 
 .jumbo{
   background-color: red;
