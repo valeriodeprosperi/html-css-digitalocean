@@ -157,3 +157,19 @@ body {
 .section_7{
   background-color: red;
 }
+
+@media all and (min-width: 1002px){
+  .loghi img{
+    width: calc(100% / 6);
+  }
+
+
+}
+
+
+@media screen and (max-width: 768px){
+  .loghi img{
+    width: calc(100% / 2);
+  }
+
+}
