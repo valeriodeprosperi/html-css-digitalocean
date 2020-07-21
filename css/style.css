@@ -150,6 +150,15 @@ margin-left: 40px;
 .section_2 h2{
   text-align: center;
 }
+
+.service li{
+  padding-left: 10px;
+  font-size: 21px;
+  color: red;
+  border-left: 2px solid grey;
+list-style: none;
+color: gray;
+}
 /* /section_2 */
 .section_3{
   background-color: green;
