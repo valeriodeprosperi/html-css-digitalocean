@@ -126,6 +126,7 @@ body {
 
   max-width: 100%;
   max-height:70px;
+margin-left: 40px;
 
 }
 .section_1 p{
@@ -141,9 +142,15 @@ body {
 }
 
 /* /section_1 */
+
 .section_2{
-  background-color: red;
+  background-color: white;
 }
+
+.section_2 h2{
+  text-align: center;
+}
+/* /section_2 */
 .section_3{
   background-color: green;
 }
