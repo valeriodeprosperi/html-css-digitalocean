@@ -44,6 +44,7 @@ body {
   background-color: #015dff;
   padding: 100px 0px;
   background-size: cover;
+
 }
 
 .jumbo h1{
@@ -53,11 +54,30 @@ body {
 
 .jumbo p{
   color:lightgrey;
+  font-weight: 2000;
 }
 
 .jumbo_form{
-  padding:80px 30px;
+  padding:50px 30px;
   background-color: white;
+  border-radius: 5px;
+}
+
+.jumbo_form h2{
+  font-weight: 600;
+  color: black;
+  text-align: center;
+
+}
+.jumbo_form p{
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.jumbo_form h2 span{
+  color: blue;
+  padding-top: 5px;
 }
 
 .jumbo input{
