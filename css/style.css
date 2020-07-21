@@ -54,7 +54,7 @@ body {
 
 .jumbo p{
   color:lightgrey;
-  font-weight: 700;
+  font-size:30px;
 }
 
 .jumbo_form{
@@ -74,6 +74,8 @@ body {
   text-align: center;
   padding-top: 10px;
 }
+
+
 
 .jumbo_form h2 span{
   color: blue;
@@ -109,9 +111,36 @@ body {
   margin: 5px 0px;
   font-weight: bold;
 }
+/* /jumbo */
+
+
 .section_1{
-  background-color: pink;
+  width: 100%;
+  background-color: #f3f5f9;
+  height: 200px;
+  align-items: center;
+
 }
+
+.section_1 img{
+
+  max-width: 100%;
+  max-height:70px;
+
+}
+.section_1 p{
+  text-transform: uppercase;
+  text-align: center;
+  color: grey;
+  padding-top: 15px;
+}
+
+.custom_stories{
+  text-align: center;
+  padding-top: 15px;
+}
+
+/* /section_1 */
 .section_2{
   background-color: red;
 }
