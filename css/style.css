@@ -65,7 +65,29 @@ body {
   padding: 10px;
   margin: 5px;
   border-radius: 5px;
-  border:1px solid lightgrey;  
+  border:1px solid lightgrey;
+}
+
+.jumbo button{
+  width:100%;
+}
+
+.btn_create{
+  background-color: #0069ff;
+  color: white;
+  margin: 5px 0px;
+  border-radius: 5px;
+  padding:5px;
+  border: none;
+}
+
+.btn_google{
+  background-color: white;
+  border: none;
+  box-shadow: 1px 1px;
+  padding:5px;
+  margin: 5px 0px;
+  font-weight: bold;
 }
 .section_1{
   background-color: pink;
