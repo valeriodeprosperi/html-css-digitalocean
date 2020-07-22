@@ -180,6 +180,31 @@ margin-left: 40px;
   max-width: 100%;
 
 }
+.wrapper_carousel{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.wrapper_slider{
+  position: relative;
+  padding
+}
+
+.glyphicon-chevron-left{
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+
+.glyphicon-chevron-right{
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+.blu_points{
+  color: blue;
+}
+/* /section_3 */
 .section_4{
   background-color: red;
 
