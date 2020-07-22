@@ -213,6 +213,7 @@ padding-bottom: 20px;
 /* /section4 */
 .section_5{
   background-color: #1633ff;
+  
 }
 .section_5 h2{
   color:white;
@@ -224,7 +225,7 @@ padding-bottom: 20px;
 .color_speed{
   color:#00FFFF;
 }
-.b-bottom{
+.b_bottom{
   border-bottom: 1px solid grey;
 
 }
