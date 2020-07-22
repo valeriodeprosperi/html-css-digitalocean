@@ -167,7 +167,13 @@ margin-left: 40px;
 }
 /* /section_2 */
 .section_3{
-  background-color: green;
+  background-color: #f3f5f9;
+}
+
+.section_3 h2{
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
 }
 .section_4{
   background-color: red;
