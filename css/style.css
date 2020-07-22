@@ -151,13 +151,19 @@ margin-left: 40px;
   text-align: center;
 }
 
+.p_tb{
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
 .service li{
+  padding-top:15px;
   padding-left: 10px;
   font-size: 21px;
   color: red;
   border-left: 2px solid grey;
-list-style: none;
-color: grey;
+  list-style: none;
+  color: grey;
 }
 /* /section_2 */
 .section_3{
