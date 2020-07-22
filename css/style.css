@@ -171,9 +171,14 @@ margin-left: 40px;
 }
 
 .section_3 h2{
-  text-align: center;
   padding-top: 15px;
   padding-bottom: 10px;
+}
+
+.section_3 img{
+  max-height:300px;
+  max-width: 100%;
+
 }
 .section_4{
   background-color: red;
